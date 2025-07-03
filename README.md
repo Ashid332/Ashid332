@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi there 👋 I'm Ashidul Islam
 
-<!--
-**Ashid332/Ashid332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A 3rd-year Electronics and Communication Engineering student from India  
+🔧 Passionate about Embedded Systems, IoT, and Microcontroller-based Projects  
+🌏 Actively looking for **remote internships** with global companies — especially in **Japan** 🇯🇵  
+🧠 Currently learning **C/C++**, **Python**, and **Japanese (JLPT N5)**  
+💡 Building cool stuff with **Arduino**, **GPS**, **GSM modules**, and more!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🚀 Tech Stack & Tools
+- **Languages:** C, C++, Python, Bash  
+- **Hardware Platforms:** Arduino, STM32, Raspberry Pi  
+- **Tools:** Proteus, KiCAD, MATLAB, Git, Linux  
+- **Other:** IoT Protocols (MQTT, GSM, GPS), GitHub, Shell Scripting
+
+---
+
+### 🧪 Current Projects
+- 🔒 Smart Vehicle Monitoring System with GPS & Electronic Lock  
+
+---
+
+### 🌱 Currently Learning
+- 📘 Advanced Embedded C and Driver Development  
+- 🧑‍💻 Real-Time Operating Systems (RTOS)
+- 🤖 cyber security
+- 🗣️ Japanese Language – JLPT N5 Level
+
+---
+
+### 📫 Let's Connect!
+- GitHub: [github.com/Ashid332](https://github.com/Ashid332)  
+- LinkedIn:https://www.linkedin.com/in/ashidul-islam-6457aa2b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: ashiduli53@gmail.com
+
+---
+
+*Thanks for visiting — I'm always open to collaboration, remote internships, and new ideas!*
+
 -->
