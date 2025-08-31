@@ -1,17 +1,13 @@
 ## Hi there 👋 I'm Ashidul Islam
 
-🎓 A 3rd-year Electronics and Communication Engineering student from India  
-🔧 Passionate about Embedded Systems, IoT, and Microcontroller-based Projects  
-🌏 Actively looking for **remote internships** with global companies — especially in **Japan** 🇯🇵  
-🧠 Currently learning **C/C++**, **Python**, and **Japanese (JLPT N5)**  
+🎓 A final year Electronics and Communication Engineering student from India  
+🔧 Passionate about Data Analytics, Data Science, Embedded Systems, IoT, and Microcontroller-based Projects  
+🌏 Actively looking for **remote internships** with global companies. 
 💡 Building cool stuff with **Arduino**, **GPS**, **GSM modules**, and more!
-
----
-
 ### 🚀 Tech Stack & Tools
 - **Languages:** C, C++, Python, Bash  
 - **Hardware Platforms:** Arduino, STM32, Raspberry Pi  
-- **Tools:** Proteus, KiCAD, MATLAB, Git, Linux  
+- **Tools:** Proteus, KiCAD, MATLAB, Git, Lin 
 - **Other:** IoT Protocols (MQTT, GSM, GPS), GitHub, Shell Scripting
 
 ---
