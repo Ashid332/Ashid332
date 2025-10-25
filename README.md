@@ -1,26 +1,23 @@
 ## Hi there 👋 I'm Ashidul Islam
 
 🎓 A final year Electronics and Communication Engineering student from India  
-🔧 Passionate about Data Analytics, Data Science, Embedded Systems, IoT, and Microcontroller-based Projects  
+🔧 Passionate about Data Analytics and Data Science.
 🌏 Actively looking for **remote internships** with global companies. 
-💡 Building cool stuff with **Arduino**, **GPS**, **GSM modules**, and more!
-### 🚀 Tech Stack & Tools
-- **Languages:** C, C++, Python, Bash  
-- **Hardware Platforms:** Arduino, STM32, Raspberry Pi  
-- **Tools:** Proteus, KiCAD, MATLAB, Git, Lin 
-- **Other:** IoT Protocols (MQTT, GSM, GPS), GitHub, Shell Scripting
+
+tools: python,sql,excel,power bi, tableu,matplolib,machine learning
 
 ---
 
 ### 🧪 Current Projects
-- 🔒 Smart Vehicle Monitoring System with GPS & Electronic Lock  
+- 🔒 Smart Vehicle Monitoring System with GPS & Electronic Lock
+- Customer Shopping Behavior
 
 ---
 
 ### 🌱 Currently Learning
-- 📘 Advanced Embedded C and Driver Development  
+- 📘 Advance power visualization
 - 🧑‍💻 Real-Time Operating Systems (RTOS)
-- 🤖 cyber security
+- 🤖 Data Analytics
 - 🗣️ Japanese Language – JLPT N5 Level
 
 ---
