@@ -1,27 +1,133 @@
-# 💫 About Me:
-👋 About Me<br><br>I’m **Ashidul Islam**, a data enthusiast driven by curiosity and problem-solving. I focus on transforming raw data into clear insights that support real-world decisions.<br><br>Currently pursuing **Electronics and Communication Engineering**, I’ve built hands-on experience in:<br><br>* 📊 **Data Analytics & Visualization** (Power BI, Excel, Tableau)<br>* 🧮 **Data Science & Machine Learning** (Python, Pandas, NumPy, Scikit-learn)<br>* 🗄️ **Databases & Querying** (SQL, MySQL)<br>* ☁️ **Cloud & Tech Fundamentals** (AW<br>S, TCS iON, Cisco, Deloitte, Tata job simulations)<br><br>I enjoy building dashboards, analyzing datasets, and solving case-based projects that mimic real business scenarios. My goal is to grow into a **data analyst or data scientist** role where I can combine technical skills with strategic thinking to deliver measurable impact.<br><br>📫 **Reach me:** [LinkedIn:https://www.linkedin.com/in/ashidulislam]<br>gmail: ashiduli53@gmail.com<br>🧠 Always learning, experimenting, and pushing data to tell better stories.<br><br>
+# 👋 Hi, I'm Ashidul Islam
 
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ashidul_islam0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashiduli53@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashid332&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ashid332&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashid332&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ashid332&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashid332&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ashidulislam" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://x.com/ashidul_islam0" target="blank"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" /></a>
+  <a href="mailto:ashiduli53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>
+  <a href="https://github.com/Ashid332" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashid332&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a **Data Analyst & Aspiring Data Scientist** passionate about transforming raw data into actionable insights. As a **final-year Electronics and Communication Engineering student** at VTU, I'm actively pursuing opportunities in data analytics, data science, and software development.
+
+### 💼 Current Experience
+- **Internship**: Data Analytics & AI Projects at **Averixis Solutions**
+- **Focus Areas**: Data analysis, dashboard development, AI automation, and solving real-world business problems
+- **Learning Path**: Advanced analytics tools, machine learning, and system design
+
+### 🎯 Key Competencies
+- 📊 **Data Analytics & Visualization**: Power BI, Excel, Tableau, Matplotlib, Seaborn
+- 🧮 **Data Science & ML**: Python, Pandas, NumPy, Scikit-learn, PyTorch
+- 🗄️ **Databases & SQL**: MySQL, PostgreSQL, MongoDB, SQL queries & optimization
+- ☁️ **Cloud & Tech**: AWS, Azure, Docker, GitHub Actions
+- 💻 **Languages**: Python, Java, C++, JavaScript, TypeScript, SQL, HTML/CSS
+
+### 🏆 Notable Achievements
+- 💡 Developed a **Travel AI Advisor Bot** with advanced automation capabilities
+- 📈 Completed data science & analytics projects simulating real business scenarios (Airbnb, TCS iON, Cisco, Deloitte, Tata simulations)
+- 🔗 Active open-source contributor on GitHub
+- 🎮 Discord server management & bot development experience
+- 📊 Building and optimizing data dashboards for decision-making
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashidulislam)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Ashid332)
+[![Twitter/X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/ashidul_islam0)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ashiduli53@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=mysql&logoColor=white&style=for-the-badge)
+
+### Data & AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=python&logoColor=blue&style=for-the-badge)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+
+### Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
+
+---
+
+## 📊 GitHub Statistics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashid332&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/ashid332)
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ashid332&theme=dark&hide_border=false)](https://github.com/ashid332)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashid332&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/ashid332)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ashid332&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ashid332)
+
+---
+
+## 💡 Random Dev Quote
+
+[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/ashid332)
+
+---
+
+## 🎓 Learning & Growth
+
+- 🔬 **Current Focus**: Advanced data analytics, machine learning, and system design
+- 📚 **Continuous Learning**: Exploring new tools in BI (Power BI, Tableau), ML frameworks, and cloud technologies
+- 🤝 **Open to**: Internship opportunities, collaboration on data projects, and mentorship
+- 🎯 **Goals**: Secure a data analyst or data scientist role at a forward-thinking organization
+
+---
+
+## 📈 Projects & Contributions
+
+- 🔗 **Active GitHub Contributor**: Contributing to open-source projects and building personal data analytics projects
+- 📊 **Dashboard Development**: Building interactive dashboards with Power BI and other visualization tools
+- 🤖 **AI & Automation**: Developing AI solutions and automation scripts
+
+---
+
+<div align="center">
+
+### 🧠 *Always learning, experimenting, and pushing data to tell better stories.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ashid332&color=blue&style=flat-square)
+
+</div>
