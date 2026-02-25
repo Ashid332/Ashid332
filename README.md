@@ -25,7 +25,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/221857969-c36973f7-3581-458b-802a-8f9953cc24b4.gif" width="200" alt="anime"/>
 
-**I'm a Final-Year ECE Student & Data Analyst** passionate about transforming data into insights. Currently interning at **Averixis Solutions**, working on real-world data analytics, AI projects, and building practical solutions.
+**I'm a Final-Year ECE Student & passionate about data** passionate about transforming data into insights. Currently interning at **Averixis Solutions**, working on real-world data analytics, AI projects, and building practical solutions.
 
 Like Luffy sailing the Grand Line searching for treasure, I'm on my journey to master **Data Science, Analytics, and Software Development**. My crew (skills) keeps growing, and I'm committed to becoming a skilled professional in this field.
 
