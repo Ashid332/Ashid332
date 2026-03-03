@@ -33,7 +33,7 @@ Currently, I am training my *Observation Haki* to foresee trends in complex data
 &nbsp;
 
 ## ⚔️ Arsenal & Devil Fruit Powers (Tech Stack)
-A true pirate king is prepared for any battle. Here are the tools forged in my armory, categorized by their power:
+A true pirate king is prepared for any battle. Here are the tools forged in my armory:
 
 ### 🧠 Observation Haki (Data Analytics & Science)
 <p align="left">
@@ -59,21 +59,24 @@ A true pirate king is prepared for any battle. Here are the tools forged in my a
 
 ## 🌊 GitHub Metrics (The Grand Line Progress)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashid332&show_icons=true&theme=radical" alt="Ashid's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashid332&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashid332&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Ashid's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashid332&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashid332&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
 </div>
 
 &nbsp;
 
 ## ⚓ Let's Connect!
 <div align="center">
-  <a href="https://linkedin.com/in/ashidulislam">
+  <a href="https://linkedin.com/in/ashidulislam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/ashidul_islam0">
+  <a href="https://x.com/ashidul_islam0" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:ashiduli53@gmail.com">
+  <a href="mailto:ashiduli53@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
