@@ -9,7 +9,7 @@
 
   <!-- Typing Animation -->
   <a href="https://github.com/Ashid332">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E83E8C&center=true&vCenter=true&width=800&lines=Ahoy!+I'm+Ashidul+Islam+🏴‍☠️;Data+Analyst+📊;Full-Stack+Developer+💻;Aspiring+Data+Scientist+🧠;Setting+sail+to+conquer+the+Grand+Line!+🌊" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E83E8C&center=true&vCenter=true&width=800&lines=Ahoy!+I'm+Ashidul+Islam;Data+Analyst;Full-Stack+Developer;Aspiring+Data+Scientist;Setting+sail+to+conquer+the+Grand+Line!" alt="Typing SVG" />
   </a>
 
   <br>
