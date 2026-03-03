@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ashidul%20Islam&fontSize=80&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <div align="center">
   <img src="https://media.tenor.com/YgE-qK-8cEQAAAAd/one-piece-straw-hats.gif" alt="Straw Hat Crew" width="100%" style="border-radius: 15px;"/>
   
@@ -79,6 +83,12 @@ A true pirate king is prepared for any battle. Here are the tools forged in my a
   <a href="mailto:ashiduli53@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashid332&color=red&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br>
