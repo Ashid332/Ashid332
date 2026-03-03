@@ -16,20 +16,13 @@
 &nbsp;
 
 ## 📜 The Pirate's Manifesto (About Me)
-<table>
-  <tr>
-    <td width="65%">
-      Welcome to my logbook! I am a passionate <b>Data Analyst</b> and <b>Full-Stack Developer</b> navigating the vast and turbulent oceans of data intelligence. Just like the Straw Hat Crew constantly pushing their limits, I thrive on tackling complex data challenges, uncovering hidden insights, and building robust, scalable applications.
+Welcome to my logbook! I am a passionate **Data Analyst** and **Full-Stack Developer** navigating the vast and turbulent oceans of data intelligence. Just like the Straw Hat Crew constantly pushing their limits, I thrive on tackling complex data challenges, uncovering hidden insights, and building robust, scalable applications.
 
-      <br><br>
+Currently, I am training my *Observation Haki* to foresee trends in complex datasets and my *Armament Haki* to forge powerful machine-learning models that can withstand any storm. My goal is to find the "One Piece" of actionable insights within raw data!
 
-      Currently, I am training my <i>Observation Haki</i> to foresee trends in complex datasets and my <i>Armament Haki</i> to forge powerful machine-learning models that can withstand any storm. My goal is to find the "One Piece" of actionable insights within raw data!
-    </td>
-    <td width="35%" align="center">
-      <img src="https://media.tenor.com/_q0I8-vI7_QAAAAC/luffy.gif" width="100%" style="border-radius: 10px;" alt="Luffy Determination" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://media.tenor.com/_q0I8-vI7_QAAAAC/luffy.gif" width="45%" style="border-radius: 10px;" alt="Luffy Determination" />
+</div>
 
 ### 🎯 Current Objectives (The Log Pose):
 - 🔭 **Exploring:** Advanced Machine Learning algorithms and deep neural networks.
