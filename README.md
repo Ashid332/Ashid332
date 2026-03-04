@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ashidul%20Islam&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaoOON8nhr21vNW/giphy.gif" alt="Straw Hat Crew" width="100%" style="border-radius: 15px;"/>
-
 
   <h3 align="center">
   🏴‍☠️ Data Pirate on the Grand Line – Turning raw data into treasure maps
