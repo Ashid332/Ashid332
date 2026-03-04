@@ -4,7 +4,11 @@
 
 <div align="center">
   <img src="https://media.tenor.com/YgE-qK-8cEQAAAAd/one-piece-straw-hats.gif" alt="Straw Hat Crew" width="100%" style="border-radius: 15px;"/>
-  
+
+
+  <h3 align="center">
+  🏴‍☠️ Data Pirate on the Grand Line – Turning raw data into treasure maps
+</h3>
   <br><br>
 
   <!-- Typing Animation -->
