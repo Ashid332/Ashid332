@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgEx8SbQ0teblUG/giphy.gif"
+    <img src="https://media.tenor.com/nxh97SmMTCwAAAAi/one-piece-monkey-d-luffy.gif"
        alt="Luffy sailing towards the One Piece of data insights"
        width="400" />
 </p>
