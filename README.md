@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ashidul%20Islam&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<p align="center">
-    <img src="https://media.tenor.com/nxh97SmMTCwAAAAi/one-piece-monkey-d-luffy.gif"
-       alt="Luffy sailing towards the One Piece of data insights"
-       width="400" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Ahoy%21+I'm+Luffy+of+Data+Science%21;Turning+Raw+Data+into+Treasure+Maps;Finding+the+One+Piece+of+Insights!" alt="Animated One Piece Typing" />
+</div>
 
 ### 🌴‍☗️ Data Pirate on the Grand Line – Turning raw data into treasure maps
 
