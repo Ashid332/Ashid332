@@ -2,21 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ashidul%20Islam&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgEx8SbQ0teblUG/giphy.gif"
+       alt="Luffy sailing towards the One Piece of data insights"
+       width="400" />
+</p>
 
-  <h3 align="center">
-  🏴‍☠️ Data Pirate on the Grand Line – Turning raw data into treasure maps
-</h3>
-  <br><br>
+### 🌴‍☗️ Data Pirate on the Grand Line – Turning raw data into treasure maps
 
-  <!-- Typing Animation -->
-  <a href="https://github.com/Ashid332">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E83E8C&center=true&vCenter=true&width=800&lines=Ahoy!+I'm+Ashidul+Islam;Data+Analyst;Full-Stack+Developer;Aspiring+Data+Scientist;Setting+sail+to+conquer+the+Grand+Line!" alt="Typing SVG" />
-  </a>
+> "I'm gonna be the King of Data Science!" 👑
 
-  <br>
-
-  <i><b>"I'm gonna be the King of Data Science!" 👑</b></i>
-</div>
+ 
 
 &nbsp;
 
