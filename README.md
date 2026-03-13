@@ -78,6 +78,9 @@ A true pirate king is prepared for any battle. Here are the tools forged in my a
   <a href="mailto:ashiduli53@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/ashid332/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </div>
 
 <br>
