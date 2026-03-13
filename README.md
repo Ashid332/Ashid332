@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250§ion=header&text=Ashidul%20Islam&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif" width="600" />
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E¢er=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Ahoy!+I'm+Luffy+of+Data+Science!;Turning+Raw+Data+into+Treasure+Maps;Building+Full-Stack+Applications;Finding+the+One+Piece+of+Insights!" alt="Animated One Piece Typing" />
 </div>
