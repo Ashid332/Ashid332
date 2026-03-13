@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E¢er=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Ahoy!+I'm+Luffy+of+Data+Science!;Turning+Raw+Data+into+Treasure+Maps;Building+Full-Stack+Applications;Finding+the+One+Piece+of+Insights!" alt="Animated One Piece Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=Ahoy!+I'm+Luffy+of+Data+Science!;Turning+Raw+Data+into+Treasure+Maps;Building+Full-Stack+Applications;Finding+the+One+Piece+of+Insights!" alt="Typing SVG" />eat=true&width=600&lines=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Ahoy[](url)!+I'm+Luffy+of+Data+Science!;Turning+Raw+Data+into+Treasure+Maps;Building+Full-Stack+Applications;Finding+the+One+Piece+of+Insights!" alt="Animated One Piece Typing" />
 </div>
 
 ### 🌴‍☠️ Data Pirate & Full-Stack Developer – Navigating the Grand Line of Technology
