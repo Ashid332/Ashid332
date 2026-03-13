@@ -26,6 +26,10 @@ Currently, I am training my **Observation Haki** to foresee trends in complex da
   <img src="https://media.tenor.com/_q0I8-vI7_QAAAAC/luffy.gif" width="250" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif" width="600" />
+</p>
+
 ---
 
 ## 🎯 Current Objectives (The Log Pose):
