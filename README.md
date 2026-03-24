@@ -26,13 +26,6 @@ Welcome to my logbook! I am a passionate **Data Analyst** and **Full-Stack Devel
 
 Currently, I am training my **Observation Haki** to foresee trends in complex datasets and my **Armament Haki** to forge powerful full-stack applications that can withstand any storm. My goal is to find the "One Piece" of actionable insights within raw data while crafting elegant code!
 
-<p align="center">
-  <img src="https://media.tenor.com/_q0I8-vI7_QAAAAC/luffy.gif" width="250" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif" width="600" />
-</p>
 
 ---
 
