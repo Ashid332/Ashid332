@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="https://github.com/Ashid332">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=⚓+Ahoy!+I'm+the+Luffy+of+Data+Science!;🗺️+Turning+Raw+Data+into+Treasure+Maps;🏗️+Building+Full-Stack+Applications;🏴‍☠️+Finding+the+One+Piece+of+Insights!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%93%20Ahoy!%20I'm%20the%20Luffy%20of%20Data%20Science!;%F0%9F%97%BA%EF%B8%8F%20Turning%20Raw%20Data%20into%20Treasure%20Maps;%F0%9F%8F%97%EF%B8%8F%20Building%20Full-Stack%20Applications;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20Finding%20the%20One%20Piece%20of%20Insights!" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Animated Wave Divider -->
+<!-- Animated Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
 <!-- Profile Views + Stars -->
