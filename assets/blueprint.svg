@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="100%" height="420" style="background: #0d1117; border-radius: 12px;">
+  <defs>
+    <!-- Google Fonts import -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&amp;family=Fira+Code:wght@500&amp;display=swap');
+      
+      .title {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 800;
+        font-size: 28px;
+        fill: url(#header-gradient);
+      }
+      .subtitle {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 16px;
+        fill: #818CF8;
+        letter-spacing: 0.5px;
+      }
+      .label {
+        font-family: 'Fira Code', monospace;
+        font-size: 12px;
+        fill: #6B7280;
+        letter-spacing: 1px;
+      }
+      .value {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 15px;
+        fill: #E5E7EB;
+      }
+      .role-badge {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 11px;
+        fill: #E0E7FF;
+      }
+      .branding-text {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 800;
+        font-size: 11px;
+        fill: #34D399;
+        letter-spacing: 1px;
+      }
+      
+      /* Neon Pulse Animation */
+      @keyframes pulseGlow {
+        0% { filter: drop-shadow(0 0 4px rgba(99, 102, 241, 0.3)); }
+        50% { filter: drop-shadow(0 0 10px rgba(99, 102, 241, 0.6)); }
+        100% { filter: drop-shadow(0 0 4px rgba(99, 102, 241, 0.3)); }
+      }
+      .glow-border {
+        animation: pulseGlow 4s infinite ease-in-out;
+      }
+    </style>
+    
+    <!-- Gradients -->
+    <linearGradient id="header-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60A5FA" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+    
+    <linearGradient id="border-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.8" />
+    </linearGradient>
+    
+    <linearGradient id="badge-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E1B4B" />
+      <stop offset="100%" stop-color="#312E81" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Card with glowing border -->
+  <rect x="2" y="2" width="596" height="416" rx="12" fill="#0d1117" stroke="url(#border-gradient)" stroke-width="2" class="glow-border" />
+
+  <!-- Decorative Window Controls -->
+  <circle cx="30" cy="30" r="5" fill="#EF4444" />
+  <circle cx="45" cy="30" r="5" fill="#F59E0B" />
+  <circle cx="60" cy="30" r="5" fill="#10B981" />
+
+  <!-- Profile Title -->
+  <text x="30" y="80" class="title">Ashidul Islam</text>
+  <text x="30" y="105" class="subtitle">AI Data Scientist &amp; Full Stack Developer</text>
+
+  <!-- Meta Info Grid -->
+  
+  <!-- Location -->
+  <text x="30" y="145" class="label">LOCATION</text>
+  <text x="140" y="145" class="value">Bangalore, India</text>
+
+  <!-- Relocation Target -->
+  <text x="30" y="180" class="label">RELOCATION</text>
+  <text x="140" y="180" class="value">Germany (EU Blue Card Eligible) | B1/B2 German</text>
+
+  <!-- Core Branding -->
+  <text x="30" y="215" class="label">UNIFIED FOCUS</text>
+  <rect x="140" y="200" width="370" height="22" rx="11" fill="#064E3B" stroke="#059669" stroke-width="1" />
+  <text x="152" y="216" class="branding-text">AI + ANALYTICS + FULL STACK + PRODUCT</text>
+
+  <!-- Capabilities (Roles Badges) -->
+  <text x="30" y="255" class="label">ROLES</text>
+  
+  <!-- Row 1 Badges -->
+  <g transform="translate(140, 240)">
+    <rect x="0" y="0" width="145" height="22" rx="6" fill="url(#badge-gradient)" stroke="#4F46E5" stroke-width="1" />
+    <text x="10" y="15" class="role-badge">AI Powered Data Analyst</text>
+  </g>
+  <g transform="translate(295, 240)">
+    <rect x="0" y="0" width="105" height="22" rx="6" fill="url(#badge-gradient)" stroke="#4F46E5" stroke-width="1" />
+    <text x="10" y="15" class="role-badge">Data Scientist</text>
+  </g>
+  <g transform="translate(410, 240)">
+    <rect x="0" y="0" width="130" height="22" rx="6" fill="url(#badge-gradient)" stroke="#4F46E5" stroke-width="1" />
+    <text x="10" y="15" class="role-badge">Analytics Engineer</text>
+  </g>
+
+  <!-- Row 2 Badges -->
+  <g transform="translate(140, 270)">
+    <rect x="0" y="0" width="140" height="22" rx="6" fill="url(#badge-gradient)" stroke="#4F46E5" stroke-width="1" />
+    <text x="10" y="15" class="role-badge">MERN Stack Developer</text>
+  </g>
+  <g transform="translate(290, 270)">
+    <rect x="0" y="0" width="135" height="22" rx="6" fill="url(#badge-gradient)" stroke="#4F46E5" stroke-width="1" />
+    <text x="10" y="15" class="role-badge">Full Stack Developer</text>
+  </g>
+  <g transform="translate(435, 270)">
+    <rect x="0" y="0" width="115" height="22" rx="6" fill="url(#badge-gradient)" stroke="#4F46E5" stroke-width="1" />
+    <text x="10" y="15" class="role-badge">AI Product Builder</text>
+  </g>
+
+  <!-- Core Stack Summary -->
+  <text x="30" y="325" class="label">TECH ENGINE</text>
+  <text x="140" y="325" class="value" font-family="'Fira Code', monospace" font-size="14" fill="#3B82F6">Python · Next.js · Node.js · FastAPI · PostgreSQL</text>
+
+  <!-- Divider Line -->
+  <line x1="30" y1="355" x2="570" y2="355" stroke="#1F2937" stroke-width="1" />
+
+  <!-- Philosophy Text -->
+  <text x="30" y="385" class="value" font-style="italic" font-family="'Outfit', sans-serif" font-weight="300" font-size="13.5" fill="#9CA3AF">"I build at the intersection of AI models, enterprise analytics, and scalable full-stack products."</text>
+</svg>

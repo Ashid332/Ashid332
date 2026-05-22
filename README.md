@@ -51,32 +51,9 @@
 
 ### ⚡ Professional Blueprint
 
-```python
-class AshidulIslam:
-    def __init__(self):
-        self.name = "Ashidul Islam"
-        self.location = "Bangalore, India"
-        self.roles = [
-            "AI Powered Data Analyst",
-            "Data Scientist",
-            "MERN Stack Developer",
-            "Full Stack Developer",
-            "AI Product Builder",
-            "Analytics Engineer"
-        ]
-        self.branding = "AI + Analytics + Full Stack + Product Engineering"
-
-    @property
-    def current_focus(self):
-        return {
-            "ml_and_ai": ["LangChain", "RAG Systems", "MLflow"],
-            "full_stack": ["Next.js", "TypeScript", "Tailwind CSS"],
-            "relocation": "Germany (EU Blue Card Eligible)"
-        }
-
-    def say_hi(self):
-        return "I build AI analytics and scalable products that solve real-world problems."
-```
+<a href="https://github.com/Ashid332">
+  <img src="./assets/blueprint.svg" alt="Ashidul Islam - Professional Blueprint" width="100%" />
+</a>
 
 </td>
 <td width="45%" valign="top">
