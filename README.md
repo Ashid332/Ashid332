@@ -285,13 +285,15 @@ name: GitHub Profile 3D Contrib
 
 on:
   schedule:
-    - cron: "0 6 * * *"
-  workflow_dispatch:
+    - cron: "0 6 * * *"  # Runs daily at 06:00 UTC
+  workflow_dispatch:      # Allows manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -338,24 +340,32 @@ Run the workflow manually once. It generates multiple theme SVGs in `profile-3d-
 Add this workflow at `.github/workflows/snake.yml`:
 
 ```yaml
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:        # Allows manual trigger
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
-      - name: Generate Snake
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Game
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ashid332
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
