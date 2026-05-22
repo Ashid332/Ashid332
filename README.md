@@ -299,56 +299,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                  PRODUCTION ARCHITECTURES & HIGHLIGHTS             -->
+<!--                         WHAT I ENJOY BUILDING                      -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## 🏗️ Selected Production Architectures & Engineering Highlights
+## 💡 What I Enjoy Building
 
-*(Spotlighting core system designs and advanced implementation highlights at the intersection of AI, Analytics, and Full-Stack Engineering)*
+I enjoy creating applications where AI, analytics, and full stack engineering intersect.
 
-<table width="100%">
-  <thead>
-    <tr bgcolor="#161b22">
-      <th width="35%" align="left"><b>System &amp; Architecture</b></th>
-      <th width="65%" align="left"><b>Implementation Details &amp; Performance Highlights</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>🤖 Intelligent Vector RAG Engine</b><br>
-        <sub>Distributed Knowledge &amp; LLM Orchestrator</sub>
-      </td>
-      <td>
-        • Designed and deployed a multi-agent coordinator that manages custom document chunking pipelines.<br>
-        • Integrated <b>LangChain</b> and <b>FAISS / Pinecone</b> semantic indexes with context-pruning strategies.<br>
-        • <b>Impact:</b> Reduced LLM token consumption by 35% and query latency by 40% using semantic query caching.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>📈 Stream Analytics &amp; ETL Pipeline</b><br>
-        <sub>High-Throughput Data Infrastructure</sub>
-      </td>
-      <td>
-        • Developed robust telemetry pipelines using <b>FastAPI</b> to ingest and cleanse high-velocity event payloads.<br>
-        • Automated transformations via <b>Python (Pandas/NumPy)</b> and database replication between <b>MongoDB</b> and <b>PostgreSQL</b>.<br>
-        • <b>Impact:</b> Scaled ingestion to process 5M+ records daily with real-time anomaly alerts and interactive <b>Power BI</b> reporting.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>💻 Distributed MERN Service Mesh</b><br>
-        <sub>Resilient Product Engineering</sub>
-      </td>
-      <td>
-        • Built stateless microservices with <b>Node.js (Express)</b> and <b>TypeScript</b>, coordinated via an API Gateway.<br>
-        • Dockerized services and established robust CI/CD pipelines via <b>GitHub Actions</b> for zero-downtime deployments.<br>
-        • <b>Impact:</b> Achieved 99.98% uptime under high traffic, using Redis layer optimizations to cut DB read loads by 60%.
-      </td>
-    </tr>
-  </tbody>
-</table>
+Most of my work focuses on:
+- turning raw data into interactive insights,
+- building scalable backend systems,
+- integrating AI into real-world workflows,
+- and designing clean user-focused products.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
