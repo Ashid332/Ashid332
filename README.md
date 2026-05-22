@@ -274,44 +274,6 @@
 
 </div>
 
-<details>
-<summary>⚙️ Setup Instructions (click to expand)</summary>
-<br>
-
-Add this workflow at `.github/workflows/profile-3d.yml`:
-
-```yaml
-name: GitHub Profile 3D Contrib
-
-on:
-  schedule:
-    - cron: "0 6 * * *"  # Runs daily at 06:00 UTC
-  workflow_dispatch:      # Allows manual trigger
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Ashid332
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email github-actions[bot]@users.noreply.github.com
-          git add -A .
-          git commit -m "chore: update 3d contribution calendar SVGs" || true
-          git push
-```
-
-Run the workflow manually once. It generates multiple theme SVGs in `profile-3d-contrib/`.
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -333,51 +295,6 @@ Run the workflow manually once. It generates multiple theme SVGs in `profile-3d-
 
 </div>
 
-<details>
-<summary>⚙️ Setup Instructions (click to expand)</summary>
-<br>
-
-Add this workflow at `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
-  workflow_dispatch:        # Allows manual trigger
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate Snake Game
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Ashid332
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Run the workflow manually once, then it auto-updates daily.
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
