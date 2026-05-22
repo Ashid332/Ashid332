@@ -116,57 +116,7 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                       FEATURED PROJECTS                            -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
-
----
-
-### 1. 🤖 DocuMind — LLM Document Q&A Platform
-> **Enterprise Document Intelligence & RAG System**
-> [GitHub Repository](https://github.com/Ashid332/documind)
-
-* **Business Problem**: Non-technical team members spent an average of 15 minutes manually searching through lengthy PDFs and technical documentation to resolve single customer support queries.
-* **Measurable Impact**: Reduced average query resolution time from **15 minutes to under 10 seconds** (98.8% time saved). Maintained a **92% retrieval citation accuracy** across 500+ page documents.
-* **Architecture Overview**: React/Next.js frontend with Tailwind CSS → FastAPI backend → LangChain orchestrator → OpenAI Embeddings & GPT models → FAISS vector index.
-* **Engineering & Scalability Challenges**: Resolved context-window limits and hallucination errors by implementing a custom **Recursive Character Text Splitter** with overlapping chunks (1000 char size, 200 char overlap). Integrated parent-document retrievers and metadata filtering to ensure search results link back to specific page citations, eliminating hallucinated answers.
-
----
-
-### 2. 📉 DataVault — Self-Service Analytics Platform
-> **AI-Powered Analytics & Visualization Dashboard**
-> [GitHub Repository](https://github.com/Ashid332/datavault)
-
-* **Business Problem**: Business teams lacked data analysis skills and had to rely on busy data engineers to write SQL queries and create basic charts, creating a 3-day backlog for minor data requests.
-* **Measurable Impact**: **Replaced a 3-day data request backlog with self-service dashboards generated in under 60 seconds.** Reduced internal support tickets by **60%**.
-* **Architecture Overview**: MERN Stack (React, Tailwind, Node.js, Express, MongoDB) → FastAPI processing engine → Pandas/NumPy analysis pipelines → Plotly interactive visualizations.
-* **Engineering & Scalability Challenges**: Designed a dynamic schema-less ingestion engine in MongoDB to accept raw CSV uploads of varying column structures. Optimized data processing performance by streaming uploads directly to FastAPI and using vectorized operations in Pandas, ensuring that datasets of 100K+ records are indexed and visually mapped in less than a minute.
-
----
-
-### 3. 📊 Sales Intelligence Dashboard
-> **Automated Enterprise ETL & Business Intelligence Pipeline**
-> [GitHub Repository](https://github.com/Ashid332/sales-intelligence-dashboard)
-
-* **Business Problem**: Leadership was making strategic sales decisions based on outdated weekly CSV reports manually compiled from 4 separate CRM and marketing database systems, costing 6 hours/week of analyst time.
-* **Measurable Impact**: **Eliminated 6 hours/week of manual analyst labor.** Enabled real-time business forecasting and reporting, adopted organization-wide by a 50-person sales team within 2 weeks of launch.
-* **Architecture Overview**: Python ETL jobs (automated via GitHub Actions/Cron) → PostgreSQL data warehouse → SQL data transformations → Power BI Executive Dashboards.
-* **Engineering & Scalability Challenges**: Developed incremental loading logic in Python ETL scripts to pull only new/modified records, reducing database network traffic by **85%**. Handled dirty source data by writing custom regex sanitizers and schema validators in Pandas, ensuring zero pipeline failures during automated execution.
-
----
-
-### 4. 🧠 Customer Churn Predictor
-> **End-to-End MLOps Pipeline & Explainable AI Service**
-> [GitHub Repository](https://github.com/Ashid332/customer-churn-predictor)
-
-* **Business Problem**: A subscription-based SaaS business was losing recurring revenue due to customer churn, but could not identify which customers were unhappy until after they cancelled.
-* **Measurable Impact**: Identified at-risk customers **30 days prior to subscription renewal with 84% predictive accuracy** (0.81 AUC-ROC), enabling proactive retention campaigns.
-* **Architecture Overview**: Python & Scikit-learn (ML modeling) → XGBoost Classifier → SHAP (SHapley Additive exPlanations) → FastAPI → Dockerized API deployment.
-* **Engineering & Scalability Challenges**: Addressed class imbalance in training data (only 12% churn rate) using SMOTE oversampling. Implemented a model interpretability layer with SHAP to output a feature-importance breakdown for each predicted customer, allowing sales agents to see exactly *why* a customer was classified as at-risk. Wrapped model and API in a lightweight Docker container to ensure consistent deployment environments.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                            TECH STACK                              -->
