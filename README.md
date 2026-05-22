@@ -51,29 +51,31 @@
 
 ### ⚡ Professional Blueprint
 
-```javascript
-const developer = {
-  name: "Ashidul Islam",
-  coreIdentity: "AI Data Analyst & Full Stack Developer",
-  location: "Bangalore, India",
-  philosophy: "Building enterprise-grade AI analytics and scalable products that turn raw datasets into strategic business revenue.",
-  relocationTarget: {
-    ready: true,
-    preferredLocations: [
-      "Bangalore (On-site/Hybrid)", 
-      "Germany (EU Blue Card Eligible)", 
-      "Remote Global"
-    ],
-    germanLanguageLevel: "B1/B2 in progress"
-  },
-  domainExpertise: [
-    "AI Product Engineering", 
-    "Predictive Modeling & ML", 
-    "Enterprise Analytics & ETL", 
-    "MERN Full-Stack Development", 
-    "Analytics Engineering"
-  ]
-};
+```python
+class AshidulIslam:
+    def __init__(self):
+        self.name = "Ashidul Islam"
+        self.location = "Bangalore, India"
+        self.roles = [
+            "AI Powered Data Analyst",
+            "Data Scientist",
+            "MERN Stack Developer",
+            "Full Stack Developer",
+            "AI Product Builder",
+            "Analytics Engineer"
+        ]
+        self.branding = "AI + Analytics + Full Stack + Product Engineering"
+
+    @property
+    def current_focus(self):
+        return {
+            "ml_and_ai": ["LangChain", "RAG Systems", "MLflow"],
+            "full_stack": ["Next.js", "TypeScript", "Tailwind CSS"],
+            "relocation": "Germany (EU Blue Card Eligible)"
+        }
+
+    def say_hi(self):
+        return "I build AI analytics and scalable products that solve real-world problems."
 ```
 
 </td>
