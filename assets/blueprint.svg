@@ -138,6 +138,7 @@
   <!-- Divider Line -->
   <line x1="30" y1="355" x2="570" y2="355" stroke="#1F2937" stroke-width="1" />
 
-  <!-- Philosophy Text -->
-  <text x="30" y="385" class="value" font-style="italic" font-family="'Outfit', sans-serif" font-weight="300" font-size="13.5" fill="#9CA3AF">"I build at the intersection of AI models, enterprise analytics, and scalable full-stack products."</text>
+  <!-- Philosophy Text (Wrapped into two lines) -->
+  <text x="30" y="378" class="value" font-style="italic" font-family="'Outfit', sans-serif" font-weight="300" font-size="13.5" fill="#9CA3AF">"I build at the intersection of AI models,</text>
+  <text x="30" y="398" class="value" font-style="italic" font-family="'Outfit', sans-serif" font-weight="300" font-size="13.5" fill="#9CA3AF">enterprise analytics, and scalable full-stack products."</text>
 </svg>
