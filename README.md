@@ -45,34 +45,15 @@
 <!--                            ABOUT ME & STATS                        -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
 ### ⚡ Professional Blueprint
 
 <a href="https://github.com/Ashid332">
-  <img src="./assets/blueprint.svg" alt="Ashidul Islam - Professional Blueprint" width="100%" />
+  <img src="./assets/blueprint.svg" alt="Ashidul Islam - Professional Blueprint" width="85%" />
 </a>
 
-</td>
-<td width="45%" valign="top">
-
-### 📊 GitHub Activity Snapshot
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashid332&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=6366f1&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="100%" alt="GitHub Stats" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Ashid332&theme=dark&background=0d1117&ring=6366f1&fire=6366f1&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=0000&hide_border=true&border_radius=5" width="100%" alt="GitHub Streak" />
-
 </div>
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -182,6 +163,16 @@
 ## 📊 GitHub Analytics
 
 <br>
+
+<a href="https://github.com/Ashid332">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashid332&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=6366f1&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Ashid332">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Ashid332&theme=dark&background=0d1117&ring=6366f1&fire=6366f1&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=0000&hide_border=true&border_radius=5" alt="GitHub Streak" />
+</a>
+
+<br><br>
 
 <a href="https://github.com/Ashid332">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashid332&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Top Languages" />
