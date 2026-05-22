@@ -4,11 +4,16 @@ on:
   schedule:
     - cron: "0 6 * * *"  # Runs daily at 06:00 UTC
   workflow_dispatch:      # Allows manual trigger
+  push:
+    paths:
+      - '.github/workflows/profile-3d.yml'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
