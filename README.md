@@ -315,56 +315,30 @@ Most of my work focuses on:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                         ENGAGEMENT MATRIX                          -->
+<!--                           LET'S CONNECT                            -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## 💼 Engagement & Opportunity Matrix
+## 📫 Let's Connect
 
-* **Target Roles**: AI Data Analyst, Data Scientist, MERN Stack Developer, Full Stack Developer, AI Product Builder, Analytics Engineer.
-* **Work Location**: Bangalore, India (On-site / Hybrid) | Fully Remote (Global / Germany / CET-compatible).
-* **Corporate Value**: Built for startup velocity and enterprise robustness. Experienced with Dockerized service deployment, robust data cleansing pipeline construction, and interactive user interface development.
-* **EU Relocation Readiness**: Active German language training (B1/B2 standard track). Highly familiar with Germany’s EU Blue Card immigration requirements and ready to relocate upon job offer.
+I'm currently open to:
+- AI & Data Analytics roles
+- Full Stack / MERN opportunities
+- Remote internships & freelance work
+- Startup and product-based teams
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <a href="mailto:ashiduli53@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashiduli53%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
+  <a href="https://www.linkedin.com/in/ashidulislam/">
+    <img src="https://img.shields.io/badge/LinkedIn-AshidulIslam-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                        DEVELOPER PHILOSOPHY                        -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-## 💡 Developer Philosophy
-> "Data is only as good as the software that serves it. AI is only as useful as the business problems it resolves."
-> I build at the intersection of mathematical models and end-user products—ensuring machine learning services aren't just isolated experiments, but robust, production-grade applications that scale.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                         ACTION CENTER                              -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📬 Action Center & Recruitment Gateway
-
-[![Direct Email](https://img.shields.io/badge/Email-ashiduli53%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiduli53@gmail.com)
-&nbsp;
-[![Alternate Email](https://img.shields.io/badge/Alt_Email-ashidulislam012%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashidulislam012@gmail.com)
-&nbsp;
-[![LinkedIn Connected](https://img.shields.io/badge/LinkedIn-ashidulislam-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashidulislam)
-&nbsp;
-[![WhatsApp Chat](https://img.shields.io/badge/WhatsApp-Connect-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918258011806)
-
-<br><br>
-
-<a href="https://github.com/Ashid332">
-  <img src="https://img.shields.io/badge/Download_Resume-PDF-58A6FF?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Ashid332">
-  <img src="https://img.shields.io/badge/Interactive_Portfolio-Website-8A2BE2?style=for-the-badge&logo=webflow&logoColor=white" alt="Portfolio" />
-</a>
-
-</div>
+  <a href="https://github.com/Ashid332">
+    <img src="https://img.shields.io/badge/GitHub-Ashid332-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                         FOOTER BANNER                              -->
