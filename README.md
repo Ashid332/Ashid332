@@ -214,35 +214,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashid332&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Top Languages" />
 </a>
 
-<br><br>
-
-<!-- PROFILE SUMMARY CARDS -->
-
-<a href="https://github.com/Ashid332">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashid332&theme=github_dark" alt="Profile Details" width="100%" />
-</a>
-
-<br>
-
-<a href="https://github.com/Ashid332">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashid332&theme=github_dark" alt="Repos per Language" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Ashid332">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashid332&theme=github_dark" alt="Most Commit Language" />
-</a>
-
-<br>
-
-<a href="https://github.com/Ashid332">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashid332&theme=github_dark" alt="Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Ashid332">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashid332&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-</a>
-
-</div>
+<br><br></div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -262,21 +234,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                         TROPHY ROW                                 -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashid332&theme=onedark&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
