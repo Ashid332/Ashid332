@@ -4,7 +4,7 @@
 <!--                       ANIMATED HEADER BANNER                       -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b3a,60:6366f1,100:3b82f6&height=250&section=header&text=Ashidul%20Islam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=AI%20Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20MERN%20Developer&descSize=16&descColor=a5b4fc&descAlignY=52&stroke=6366f1&strokeWidth=1.5" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b3a,60:6366f1,100:3b82f6&height=250&section=header&text=Ashidul%20Islam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=AI%20%2B%20Analytics%20%2B%20Full%20Stack%20%2B%20Product%20Engineering&descSize=16&descColor=a5b4fc&descAlignY=52&stroke=6366f1&strokeWidth=1.5" width="100%" alt="Header" />
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                        TYPING ANIMATION                            -->
@@ -17,7 +17,7 @@
 <br>
 
 <!-- TAGLINE -->
-<img src="https://img.shields.io/badge/Unified%20Bracing--AI%20%2B%20Analytics%20%2B%20Full%20Stack%20%2B%20Product%20Engineering-0d1117?style=for-the-badge&labelColor=0d1117" alt="Tagline" />
+<img src="https://img.shields.io/badge/Unified%20Focus--AI%20%2B%20Analytics%20%2B%20Full%20Stack%20%2B%20Product%20Engineering-0d1117?style=for-the-badge&labelColor=0d1117" alt="Tagline" />
 
 <br><br>
 
