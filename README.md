@@ -65,14 +65,52 @@
 
 ### 🔭 Current Focus & Execution Map
 
-| Vector | Focus Area | Technology / Goal | Target Timeline |
-| :---: | :--- | :--- | :---: |
-| 🤖 | **AI Product Engineering** | LLM fine-tuning, RAG frameworks (LangChain), and agentic workflows | Ongoing |
-| 📊 | **Analytics Engineering** | Modern Data Stack integration, data pipelines (FastAPI, dbt) | Q3 2026 |
-| 💻 | **MERN Stack Upgrades** | Next.js App Router optimization, TypeScript backend refactoring | Q3 2026 |
-| 🇩🇪 | **Germany Relocation Prep** | Intensive B2 German language training (Goethe-Institut curriculum) | Late 2026 |
-
 </div>
+
+<table width="100%">
+  <thead>
+    <tr bgcolor="#161b22">
+      <th width="20%" align="center"><b>Vector</b></th>
+      <th width="25%" align="left"><b>Focus Area</b></th>
+      <th width="40%" align="left"><b>Technology &amp; Goal</b></th>
+      <th width="15%" align="center"><b>Timeline</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AI_Product-6366F1?style=flat-square" alt="AI Vector" />
+      </td>
+      <td><b>AI Product Engineering</b></td>
+      <td>LLM fine-tuning, RAG frameworks (LangChain), and agentic workflows</td>
+      <td align="center"><code>Ongoing</code></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Analytics-10B981?style=flat-square" alt="Analytics Vector" />
+      </td>
+      <td><b>Analytics Engineering</b></td>
+      <td>Modern Data Stack integration, data pipelines (FastAPI, dbt)</td>
+      <td align="center"><code>Q3 2026</code></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Full_Stack-3B82F6?style=flat-square" alt="Full Stack Vector" />
+      </td>
+      <td><b>MERN Stack Upgrades</b></td>
+      <td>Next.js App Router optimization, TypeScript backend refactoring</td>
+      <td align="center"><code>Q3 2026</code></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/EU_Relocation-F59E0B?style=flat-square" alt="Relocation Vector" />
+      </td>
+      <td><b>Germany Relocation Prep</b></td>
+      <td>Intensive B2 German language training (Goethe-Institut curriculum)</td>
+      <td align="center"><code>Late 2026</code></td>
+    </tr>
+  </tbody>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
