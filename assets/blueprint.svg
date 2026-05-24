@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="100%" height="420" style="background: #0d1117; border-radius: 12px;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="100%" height="420" style="background: #090D16; border-radius: 12px;">
   <defs>
-    <!-- Google Fonts import -->
+    <!-- Google Fonts import & Stylesheet -->
     <style type="text/css">
-      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&amp;family=Fira+Code:wght@500&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;800&amp;family=Fira+Code:wght@400;500;700&amp;display=swap');
       
       .title {
         font-family: 'Outfit', sans-serif;
@@ -13,41 +13,61 @@
       .subtitle {
         font-family: 'Outfit', sans-serif;
         font-weight: 600;
-        font-size: 16px;
+        font-size: 15px;
         fill: #818CF8;
         letter-spacing: 0.5px;
       }
       .label {
         font-family: 'Fira Code', monospace;
-        font-size: 12px;
-        fill: #6B7280;
-        letter-spacing: 1px;
+        font-size: 10px;
+        font-weight: 500;
+        fill: #64748B;
+        letter-spacing: 0.8px;
       }
       .value {
         font-family: 'Outfit', sans-serif;
-        font-weight: 600;
-        font-size: 15px;
-        fill: #E5E7EB;
+        font-weight: 500;
+        font-size: 14px;
+        fill: #E2E8F0;
+      }
+      .value-tech {
+        font-family: 'Fira Code', monospace;
+        font-weight: 500;
+        font-size: 12.5px;
+        fill: #38BDF8;
       }
       .role-badge {
         font-family: 'Outfit', sans-serif;
         font-weight: 600;
-        font-size: 11px;
-        fill: #E0E7FF;
+        font-size: 10px;
+        fill: #C7D2FE;
       }
       .branding-text {
         font-family: 'Outfit', sans-serif;
         font-weight: 800;
-        font-size: 11px;
+        font-size: 10.5px;
         fill: #34D399;
-        letter-spacing: 1px;
+        letter-spacing: 0.8px;
       }
-      
-      /* Neon Pulse Animation */
+      .quote-line {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 300;
+        font-style: italic;
+        font-size: 13.5px;
+        fill: #94A3B8;
+      }
+      @keyframes pulse {
+        0% { opacity: 0.4; }
+        50% { opacity: 1; }
+        100% { opacity: 0.4; }
+      }
+      .pulse-dot {
+        animation: pulse 2s infinite ease-in-out;
+      }
       @keyframes pulseGlow {
-        0% { filter: drop-shadow(0 0 4px rgba(99, 102, 241, 0.3)); }
-        50% { filter: drop-shadow(0 0 10px rgba(99, 102, 241, 0.6)); }
-        100% { filter: drop-shadow(0 0 4px rgba(99, 102, 241, 0.3)); }
+        0% { filter: drop-shadow(0 0 2px rgba(99, 102, 241, 0.2)); }
+        50% { filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.4)); }
+        100% { filter: drop-shadow(0 0 2px rgba(99, 102, 241, 0.2)); }
       }
       .glow-border {
         animation: pulseGlow 4s infinite ease-in-out;
@@ -67,78 +87,138 @@
       <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.8" />
     </linearGradient>
     
-    <linearGradient id="badge-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1E1B4B" />
-      <stop offset="100%" stop-color="#312E81" />
+    <linearGradient id="badge-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E1B4B" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.8"/>
     </linearGradient>
+
+    <linearGradient id="focus-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#064E3B" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#022C22" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <!-- Blueprint Grid Pattern -->
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1E293B" stroke-width="0.7" stroke-opacity="0.4" />
+    </pattern>
+
+    <!-- Aura Blur Filter -->
+    <filter id="back-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="25" />
+    </filter>
   </defs>
 
-  <!-- Background Card with glowing border -->
-  <rect x="2" y="2" width="596" height="416" rx="12" fill="#0d1117" stroke="url(#border-gradient)" stroke-width="2" class="glow-border" />
+  <!-- Background Base -->
+  <rect x="1.5" y="1.5" width="597" height="417" rx="12" fill="#090D16" />
 
-  <!-- Decorative Window Controls -->
-  <circle cx="30" cy="30" r="5" fill="#EF4444" />
-  <circle cx="45" cy="30" r="5" fill="#F59E0B" />
-  <circle cx="60" cy="30" r="5" fill="#10B981" />
+  <!-- Blueprint Grid Layer -->
+  <rect x="1.5" y="1.5" width="597" height="417" rx="12" fill="url(#grid)" />
 
-  <!-- Profile Title -->
-  <text x="30" y="80" class="title">Ashidul Islam</text>
-  <text x="30" y="105" class="subtitle">AI Data Scientist &amp; Full Stack Developer</text>
+  <!-- Colorful Ambient Nebula Glows -->
+  <ellipse cx="100" cy="90" rx="90" ry="30" fill="#6366F1" fill-opacity="0.12" filter="url(#back-glow)" />
+  <ellipse cx="480" cy="220" rx="110" ry="60" fill="#10B981" fill-opacity="0.05" filter="url(#back-glow)" />
+  <ellipse cx="300" cy="380" rx="150" ry="40" fill="#8B5CF6" fill-opacity="0.08" filter="url(#back-glow)" />
 
-  <!-- Meta Info Grid -->
-  
-  <!-- Location -->
-  <text x="30" y="145" class="label">LOCATION</text>
-  <text x="140" y="145" class="value">Bangalore, India</text>
+  <!-- IDE Header Window Panel -->
+  <path d="M1.5 13.5 A12 12 0 0 1 13.5 1.5 L586.5 1.5 A12 12 0 0 1 598.5 13.5 L598.5 40 L1.5 40 Z" fill="#0F172A" />
+  <line x1="1.5" y1="40" x2="598.5" y2="40" stroke="#1E293B" stroke-width="1" />
 
-  <!-- Relocation Target -->
-  <text x="30" y="180" class="label">RELOCATION</text>
-  <text x="140" y="180" class="value">Germany (EU Blue Card Eligible) | B1/B2 German</text>
+  <!-- Window Controls -->
+  <circle cx="25" cy="21" r="5" fill="#EF4444" />
+  <circle cx="40" cy="21" r="5" fill="#F59E0B" />
+  <circle cx="55" cy="21" r="5" fill="#10B981" />
 
-  <!-- Core Branding -->
-  <text x="30" y="215" class="label">UNIFIED FOCUS</text>
-  <rect x="140" y="200" width="370" height="22" rx="11" fill="#064E3B" stroke="#059669" stroke-width="1" />
-  <text x="152" y="216" class="branding-text">AI + ANALYTICS + FULL STACK + PRODUCT</text>
+  <!-- Tab Title File Name -->
+  <text x="300" y="25" font-family="'Fira Code', monospace" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">ashidul_islam_blueprint.json</text>
 
-  <!-- Capabilities (Roles Badges) -->
-  <text x="30" y="255" class="label">ROLES</text>
-  
+  <!-- Active Status Badge -->
+  <rect x="515" y="11" width="58" height="18" rx="9" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="525" cy="20" r="3.5" fill="#10B981" class="pulse-dot"/>
+  <text x="533" y="23" font-family="'Outfit', sans-serif" font-weight="700" font-size="9" fill="#34D399" letter-spacing="0.5">ACTIVE</text>
+
+  <!-- Main Profile Header Info -->
+  <text x="35" y="78" class="title">Ashidul Islam</text>
+  <text x="35" y="102" class="subtitle">AI Data Scientist &amp; Full Stack Developer</text>
+
+  <!-- Dashed Technical Separator -->
+  <line x1="35" y1="120" x2="565" y2="120" stroke="#1E293B" stroke-dasharray="4 4" stroke-width="1" />
+
+  <!-- LOCATION ROW -->
+  <g transform="translate(35, 137)">
+    <path d="M5 1C3.3 1 2 2.3 2 4c0 2.2 3 5 3 5s3-2.8 3-5c0-1.7-1.3-3-3-3zm0 4.2c-.7 0-1.2-.5-1.2-1.2s.5-1.2 1.2-1.2 1.2.5 1.2 1.2-.5 1.2-1.2 1.2z" fill="#818CF8" />
+    <text x="18" y="9" class="label">LOCATION</text>
+    <text x="135" y="9" class="value">Bangalore, India</text>
+  </g>
+
+  <!-- RELOCATION ROW -->
+  <g transform="translate(35, 171)">
+    <circle cx="5" cy="5" r="4.5" fill="none" stroke="#818CF8" stroke-width="1"/>
+    <path d="M0.5 5h9M5 0.5c1.2 1.2 1.6 2.8 1.6 4.5s-.4 3.3-1.6 4.5M5 0.5C3.8 1.7 3.4 3.3 3.4 5s.4 3.3 1.6 4.5" fill="none" stroke="#818CF8" stroke-width="0.8"/>
+    <text x="18" y="9" class="label">RELOCATION</text>
+    <text x="135" y="9" class="value">Germany (EU Blue Card Eligible) | B1/B2 German</text>
+  </g>
+
+  <!-- UNIFIED FOCUS ROW -->
+  <g transform="translate(35, 205)">
+    <path d="M5 1.5L8.5 5L5 8.5L1.5 5Z" fill="none" stroke="#818CF8" stroke-width="1.2"/>
+    <circle cx="5" cy="5" r="1.5" fill="#818CF8"/>
+    <text x="18" y="9" class="label">UNIFIED FOCUS</text>
+    <rect x="135" y="-3" width="370" height="18" rx="9" fill="url(#focus-grad)" stroke="#10B981" stroke-opacity="0.8" stroke-width="1" />
+    <text x="147" y="10" class="branding-text">AI + ANALYTICS + FULL STACK + PRODUCT</text>
+  </g>
+
+  <!-- TECH ENGINE ROW -->
+  <g transform="translate(35, 239)">
+    <path d="M3.5 2L1.5 5l2 3M6.5 2l2 3-2 3" fill="none" stroke="#818CF8" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="18" y="9" class="label">TECH ENGINE</text>
+    <text x="135" y="9" class="value-tech">Python · Next.js · Node.js · FastAPI · PostgreSQL</text>
+  </g>
+
+  <!-- ROLES ROW -->
+  <g transform="translate(35, 273)">
+    <path d="M1 2.5l4-2 4 2-4 2zM1 4.5l4 2 4-2M1 6.5l4 2 4-2" fill="none" stroke="#818CF8" stroke-width="1.2" stroke-linejoin="round"/>
+    <text x="18" y="9" class="label">ROLES</text>
+  </g>
+
   <!-- Row 1 Badges -->
-  <g transform="translate(140, 240)">
-    <rect x="0" y="0" width="145" height="22" rx="6" fill="url(#badge-gradient)" stroke="#4F46E5" stroke-width="1" />
-    <text x="10" y="15" class="role-badge">AI Powered Data Analyst</text>
+  <g transform="translate(170, 268)">
+    <rect x="0" y="0" width="140" height="20" rx="10" fill="url(#badge-grad)" stroke="#4F46E5" stroke-opacity="0.6" stroke-width="1" />
+    <text x="10" y="14" class="role-badge">AI Powered Data Analyst</text>
   </g>
-  <g transform="translate(295, 240)">
-    <rect x="0" y="0" width="105" height="22" rx="6" fill="url(#badge-gradient)" stroke="#4F46E5" stroke-width="1" />
-    <text x="10" y="15" class="role-badge">Data Scientist</text>
+  <g transform="translate(320, 268)">
+    <rect x="0" y="0" width="100" height="20" rx="10" fill="url(#badge-grad)" stroke="#4F46E5" stroke-opacity="0.6" stroke-width="1" />
+    <text x="10" y="14" class="role-badge">Data Scientist</text>
   </g>
-  <g transform="translate(410, 240)">
-    <rect x="0" y="0" width="130" height="22" rx="6" fill="url(#badge-gradient)" stroke="#4F46E5" stroke-width="1" />
-    <text x="10" y="15" class="role-badge">Analytics Engineer</text>
+  <g transform="translate(430, 268)">
+    <rect x="0" y="0" width="125" height="20" rx="10" fill="url(#badge-grad)" stroke="#4F46E5" stroke-opacity="0.6" stroke-width="1" />
+    <text x="10" y="14" class="role-badge">Analytics Engineer</text>
   </g>
 
   <!-- Row 2 Badges -->
-  <g transform="translate(140, 270)">
-    <rect x="0" y="0" width="140" height="22" rx="6" fill="url(#badge-gradient)" stroke="#4F46E5" stroke-width="1" />
-    <text x="10" y="15" class="role-badge">MERN Stack Developer</text>
+  <g transform="translate(170, 294)">
+    <rect x="0" y="0" width="135" height="20" rx="10" fill="url(#badge-grad)" stroke="#4F46E5" stroke-opacity="0.6" stroke-width="1" />
+    <text x="10" y="14" class="role-badge">MERN Stack Developer</text>
   </g>
-  <g transform="translate(290, 270)">
-    <rect x="0" y="0" width="135" height="22" rx="6" fill="url(#badge-gradient)" stroke="#4F46E5" stroke-width="1" />
-    <text x="10" y="15" class="role-badge">Full Stack Developer</text>
+  <g transform="translate(315, 294)">
+    <rect x="0" y="0" width="130" height="20" rx="10" fill="url(#badge-grad)" stroke="#4F46E5" stroke-opacity="0.6" stroke-width="1" />
+    <text x="10" y="14" class="role-badge">Full Stack Developer</text>
   </g>
-  <g transform="translate(435, 270)">
-    <rect x="0" y="0" width="115" height="22" rx="6" fill="url(#badge-gradient)" stroke="#4F46E5" stroke-width="1" />
-    <text x="10" y="15" class="role-badge">AI Product Builder</text>
+  <g transform="translate(455, 294)">
+    <rect x="0" y="0" width="115" height="20" rx="10" fill="url(#badge-grad)" stroke="#4F46E5" stroke-opacity="0.6" stroke-width="1" />
+    <text x="10" y="14" class="role-badge">AI Product Builder</text>
   </g>
 
-  <!-- Core Stack Summary -->
-  <text x="30" y="325" class="label">TECH ENGINE</text>
-  <text x="140" y="325" class="value" font-family="'Fira Code', monospace" font-size="14" fill="#3B82F6">Python · Next.js · Node.js · FastAPI · PostgreSQL</text>
+  <!-- Dashed Technical Separator 2 -->
+  <line x1="35" y1="345" x2="565" y2="345" stroke="#1E293B" stroke-dasharray="4 4" stroke-width="1" />
 
-  <!-- Divider Line -->
-  <line x1="30" y1="355" x2="570" y2="355" stroke="#1F2937" stroke-width="1" />
+  <!-- Code Signature icon at bottom right -->
+  <text x="565" y="395" font-family="'Fira Code', monospace" font-size="16" font-weight="700" fill="#1E293B" fill-opacity="0.5" text-anchor="end">&lt;/&gt;</text>
 
-  <!-- Philosophy Text (Wrapped into two lines) -->
-  <text x="30" y="378" class="value" font-style="italic" font-family="'Outfit', sans-serif" font-weight="300" font-size="13.5" fill="#9CA3AF">"I build at the intersection of AI models,</text>
-  <text x="30" y="398" class="value" font-style="italic" font-family="'Outfit', sans-serif" font-weight="300" font-size="13.5" fill="#9CA3AF">enterprise analytics, and scalable full-stack products."</text>
+  <!-- Quote Philosophy Quotebox -->
+  <line x1="35" y1="365" x2="35" y2="400" stroke="url(#border-gradient)" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="48" y="378" class="quote-line">"I build at the intersection of AI models,</text>
+  <text x="48" y="396" class="quote-line">enterprise analytics, and scalable full-stack products."</text>
+
+  <!-- Glowing Outer Neon Border -->
+  <rect x="1.5" y="1.5" width="597" height="417" rx="12" fill="none" stroke="url(#border-gradient)" stroke-width="1.5" class="glow-border" />
 </svg>
