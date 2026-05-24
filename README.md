@@ -317,10 +317,10 @@ Most of my work focuses on:
 ## 📫 Let's Connect
 
 I'm currently open to:
-- AI & Data Analytics roles
-- Full Stack / MERN opportunities
-- Remote internships & freelance work
-- Startup and product-based teams
+- 💼 **Target Roles**: AI & Data Analytics, MERN / Full Stack Engineering, Analytics Engineering
+- 📍 **Work Preferences**: Bangalore, India (On-site/Hybrid) | Remote (CET/Global-compatible)
+- ✈️ **EU Relocation**: Ready to relocate (EU Blue Card eligible, active B1/B2 German prep)
+- 🚀 **Opportunities**: Full-time roles, remote internships, freelance contracts, and startup teams
 
 <p align="center">
   <a href="mailto:ashiduli53@gmail.com">
