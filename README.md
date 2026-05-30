@@ -193,6 +193,31 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                     🏆 TROPHIES & ACHIEVEMENTS                     -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🏆 Trophies & Achievements
+
+<br>
+
+<a href="https://github.com/Ashid332">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashid332&theme=github_dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</a>
+
+<br><br>
+
+### 🎖️ Earned Badges
+<a href="https://github.com/Ashid332?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" alt="Pull Shark" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                         GITHUB STATS                               -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
