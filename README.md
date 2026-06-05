@@ -34,7 +34,7 @@
   &nbsp;
   <a href="https://leetcode.com/u/ashid332/"><img src="https://img.shields.io/badge/LeetCode-ashid332-ffa116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   &nbsp;
-  <a href="https://github.com/Ashid332/Ashid332/blob/main/Ashidul_Islam_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-e00000?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://github.com/Ashid332/Ashid332/blob/main/Ashidul-islam-resume%20(2).pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-e00000?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Ashid332&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
@@ -362,7 +362,7 @@ I'm currently open to:
     <img src="https://img.shields.io/badge/GitHub-Ashid332-black?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="https://github.com/Ashid332/Ashid332/blob/main/Ashidul_Islam_Resume.pdf" target="_blank">
+  <a href="https://github.com/Ashid332/Ashid332/blob/main/Ashidul-islam-resume%20(2).pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
