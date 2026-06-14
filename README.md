@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                       ANIMATED HEADER BANNER                       -->
+<!--                             HEADER BANNER                          -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b3a,60:6366f1,100:3b82f6&height=250&section=header&text=Ashidul%20Islam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=AI%20%2B%20Analytics%20%2B%20Full%20Stack%20%2B%20Product%20Engineering&descSize=16&descColor=a5b4fc&descAlignY=52&stroke=6366f1&strokeWidth=1.5" width="100%" alt="Header" />
+<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%" alt="Header Banner" />
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                        TYPING ANIMATION                            -->
