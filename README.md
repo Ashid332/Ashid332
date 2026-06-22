@@ -34,6 +34,8 @@
   &nbsp;
   <a href="https://leetcode.com/u/ashid332/"><img src="https://img.shields.io/badge/LeetCode-ashid332-ffa116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   &nbsp;
+  <a href="https://x.com/Ashidul18758347" target="_blank"><img src="https://img.shields.io/badge/X-Ashidul18758347-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  &nbsp;
   <a href="https://github.com/Ashid332/Ashid332/blob/main/Ashidul-islam-resume%20(2).pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-e00000?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Ashid332&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -356,6 +358,10 @@ I'm currently open to:
 
   <a href="https://www.linkedin.com/in/ashidulislam/">
     <img src="https://img.shields.io/badge/LinkedIn-AshidulIslam-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://x.com/Ashidul18758347" target="_blank">
+    <img src="https://img.shields.io/badge/X-Ashidul18758347-black?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
   <a href="https://github.com/Ashid332">
