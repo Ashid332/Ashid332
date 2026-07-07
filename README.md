@@ -26,7 +26,7 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="mailto:ashiduli53@gmail.com"><img src="https://img.shields.io/badge/Email-ashiduli53%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ashidulislam012@gmail.com"><img src="https://img.shields.io/badge/Email-ashidulislam012%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
   <a href="https://linkedin.com/in/ashidulislam"><img src="https://img.shields.io/badge/LinkedIn-ashidulislam-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
@@ -352,8 +352,8 @@ I'm currently open to:
 - 🚀 **Opportunities**: Full-time roles, remote internships, freelance contracts, and startup teams
 
 <p align="center">
-  <a href="mailto:ashiduli53@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ashiduli53%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:ashidulislam012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashidulislam012%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/ashidulislam/">
