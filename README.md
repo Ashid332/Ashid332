@@ -35,12 +35,11 @@ I'm a Full Stack Engineer focused on building web applications that integrate AI
 
 #### 🌐 Open Source
 
-Actively contributing to open-source software while building experience through real-world bug fixes and feature development.
-
-Current focus:
-- Cal.com
-- AI tooling
-- Developer productivity
+| Repository | Contribution | Status |
+|------------|--------------|--------|
+| [LangChain](https://github.com/langchain-ai/langchain) | Contributed implementation of the Google Cloud Enterprise Search retriever, including core logic and documentation. | [✅ Merged](https://github.com/langchain-ai/langchain/pull/7857) |
+| [Future AGI](https://github.com/future-agi/future-agi) | Fixed a frontend bug by preventing zero-byte file uploads in scenario configuration components. | [🟡 Open](https://github.com/future-agi/future-agi/pull/1451) |
+| [Digital Innovation One](https://github.com/digitalinnovationone/dio-lab-open-source) | Added a personal developer profile to the community open-source directory. | [✅ Merged](https://github.com/digitalinnovationone/dio-lab-open-source/pull/74256) |
 
 ---
 
@@ -55,8 +54,3 @@ Current focus:
 ---
 
 *Currently open to Full Stack and AI Engineering opportunities.*
-
-<br><br>
-<div align="center">
-  <img src="https://count.getloli.com/get/@Ashid332?theme=rule34" alt="" />
-</div>
