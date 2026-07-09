@@ -58,5 +58,5 @@ Current focus:
 
 <br><br>
 <div align="center">
-  <img src="https://count.getloli.com/get/@Ashid332?theme=rule34" alt="visitor counter" />
+  <img src="https://count.getloli.com/get/@Ashid332?theme=rule34" alt="" />
 </div>
