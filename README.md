@@ -40,6 +40,7 @@ I'm a Full Stack Engineer focused on building web applications that integrate AI
 | [LangChain](https://github.com/langchain-ai/langchain) | Contributed implementation of the Google Cloud Enterprise Search retriever, including core logic and documentation. | [✅ Merged](https://github.com/langchain-ai/langchain/pull/7857) |
 | [Future AGI](https://github.com/future-agi/future-agi) | Fixed a frontend bug by preventing zero-byte file uploads in scenario configuration components. | [🟡 Open](https://github.com/future-agi/future-agi/pull/1451) |
 | [Digital Innovation One](https://github.com/digitalinnovationone/dio-lab-open-source) | Added a personal developer profile to the community open-source directory. | [✅ Merged](https://github.com/digitalinnovationone/dio-lab-open-source/pull/74256) |
+| [Cal.com](https://github.com/Ashid332/cal.diy) | Fixed booking overlap logic by implementing robust interval intersection and centralizing queries. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/1) |
 
 ---
 
