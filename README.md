@@ -45,6 +45,7 @@ I'm a Full Stack Engineer focused on building web applications that integrate AI
 | [Cal.com](https://github.com/Ashid332/cal.diy) | Refactored the EventManager to enforce immutability by preventing dangerous object mutations during location processing. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/3) |
 | [Cal.com](https://github.com/Ashid332/cal.diy) | Refactored the Booker form initialization hook to enforce strict React dependency rules and remove legacy workarounds. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/4) |
 | [Cal.com](https://github.com/Ashid332/cal.diy) | Enhanced the BookingRepository to directly expose the primary booker property on fetched booking results. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/5) |
+| [Cal.com](https://github.com/Ashid332/cal.diy) | Deduplicated username availability logic by refactoring the signup validation flow to reuse the core checking utility. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/6) |
 
 ---
 
