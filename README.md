@@ -42,6 +42,7 @@ I'm a Full Stack Engineer focused on building web applications that integrate AI
 | [Digital Innovation One](https://github.com/digitalinnovationone/dio-lab-open-source) | Added a personal developer profile to the community open-source directory. | [✅ Merged](https://github.com/digitalinnovationone/dio-lab-open-source/pull/74256) |
 | [Cal.com](https://github.com/Ashid332/cal.diy) | Fixed booking overlap logic by implementing robust interval intersection and centralizing queries. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/1) |
 | [Cal.com](https://github.com/Ashid332/cal.diy) | Fixed slot reservation loss on page refresh by persisting the reservation ID in sessionStorage. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/2) |
+| [Cal.com](https://github.com/Ashid332/cal.diy) | Refactored the EventManager to enforce immutability by preventing dangerous object mutations during location processing. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/3) |
 
 ---
 
