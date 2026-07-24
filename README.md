@@ -40,13 +40,8 @@ I'm a Full Stack Engineer focused on building web applications that integrate AI
 | [LangChain](https://github.com/langchain-ai/langchain) | Contributed implementation of the Google Cloud Enterprise Search retriever, including core logic and documentation. | [✅ Merged](https://github.com/langchain-ai/langchain/pull/7857) |
 | [Future AGI](https://github.com/future-agi/future-agi) | Fixed a frontend bug by preventing zero-byte file uploads in scenario configuration components. | [🟡 Open](https://github.com/future-agi/future-agi/pull/1451) |
 | [Digital Innovation One](https://github.com/digitalinnovationone/dio-lab-open-source) | Added a personal developer profile to the community open-source directory. | [✅ Merged](https://github.com/digitalinnovationone/dio-lab-open-source/pull/74256) |
-| [Cal.com](https://github.com/Ashid332/cal.diy) | Fixed booking overlap logic by implementing robust interval intersection and centralizing queries. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/1) |
-| [Cal.com](https://github.com/Ashid332/cal.diy) | Fixed slot reservation loss on page refresh by persisting the reservation ID in sessionStorage. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/2) |
-| [Cal.com](https://github.com/Ashid332/cal.diy) | Refactored the EventManager to enforce immutability by preventing dangerous object mutations during location processing. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/3) |
-| [Cal.com](https://github.com/Ashid332/cal.diy) | Refactored the Booker form initialization hook to enforce strict React dependency rules and remove legacy workarounds. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/4) |
-| [Cal.com](https://github.com/Ashid332/cal.diy) | Enhanced the BookingRepository to directly expose the primary booker property on fetched booking results. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/5) |
-| [Cal.com](https://github.com/Ashid332/cal.diy) | Deduplicated username availability logic by refactoring the signup validation flow to reuse the core checking utility. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/6) |
 | [Cal.com](https://github.com/Ashid332/cal.diy) | Standardized duplicated fallback logic for missing participant names across multiple services into a unified, tested utility. | [✅ Merged](https://github.com/Ashid332/cal.diy/pull/7) |
+| [Python Typeshed](https://github.com/python/typeshed) | Extracted and consistently applied TypedDict definitions for proxy_protocol_info across gunicorn stubs to improve type strictness. | [✅ Merged](https://github.com/python/typeshed/pull/16003) |
 
 ---
 
